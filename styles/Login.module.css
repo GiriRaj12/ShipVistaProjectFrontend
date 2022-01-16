@@ -1,0 +1,22 @@
+.login_input_container {
+    margin: 10% auto;
+    max-width: 500px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 1px rgb(144, 144, 144);
+    text-align: center;
+}
+
+.login_regi_information_text{
+    padding: 5%;
+}
+
+.login_button_style{
+    padding: 1%;
+    margin: 10px auto;
+    max-width: 200px;
+}
+
+.page_title{
+    text-align: center;
+    width: 100%;
+}
